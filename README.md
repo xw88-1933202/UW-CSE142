@@ -1,3 +1,2 @@
 # UW-CSE142
-Homeworks. 
-Please don't copy.
+This file contains all of the Homeworks of CSE142 in University of Washington.
